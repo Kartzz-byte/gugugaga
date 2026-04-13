@@ -106,7 +106,7 @@ a:hover {
 
     <!-- FOTO -->
     <div class="photo-box">
-        <img src="images/error.png" alt="error">
+        <img src="error.png" alt="error">
     </div>
 
     <h2>Login Gagal</h2>
