@@ -259,126 +259,126 @@ body {
 <div class="grid">
 
     <div class="card">
-        <img src="images/gta 5.png">
+        <img src="gta 5.png">
         <h3>GTA V</h3>
         <p>Open World</p>
         <a href="buy.php?game=GTA V" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/re.png">
+        <img src="re.png">
         <h3>Resident Evil Requiem</h3>
         <p>Adventure</p>
         <a href="buy.php?game=Resident Evil Requiem" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/rdr2.png">
+        <img src="rdr2.png">
         <h3>Red Dead Redemption</h3>
         <p>Open World</p>
         <a href="buy.php?game=Red Dead Redemption" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/outlast.png">
+        <img src="outlast.png">
         <h3>Outlast</h3>
         <p>Horror</p>
         <a href="buy.php?game=Outlast" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/re4.png">
+        <img src="re4.png">
         <h3>Resident Evil 4</h3>
         <p>Adventure</p>
         <a href="buy.php?game=Resident Evil 4" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/elden.png">
+        <img src="elden.png">
         <h3>Elden Ring</h3>
         <p>Dark Fantasy RPG</p>
         <a href="buy.php?game=Elden Ring" class="btn">Buy</a>
    </div>
 
     <div class="card">
-        <img src="images/ets.png">
+        <img src="ets.png">
         <h3>Europe Truck Simulator</h3>
         <p>Simulation</p>
         <a href="buy.php?game=Europe Truck Simulator" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/spiderman.png">
+        <img src="spiderman.png">
         <h3>Spiderman 2</h3>
         <p>Action</p>
         <a href="buy.php?game=Spiderman 2" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/pragmata.png">
+        <img src="pragmata.png">
         <h3>Pragmata</h3>
         <p>Adventure</p>
         <a href="buy.php?game=Pragmata" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/silent.png">
+        <img src="silent.png">
         <h3>Silent Hill</h3>
         <p>Horror</p>
         <a href="buy.php?game=Silent Hill" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/forza.png">
+        <img src="forza.png">
         <h3>Forza Horizon 5</h3>
         <p>Racing</p>
         <a href="buy.php?game=Forza Horizon 5" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/cp.png">
+        <img src="cp.png">
         <h3>Cyberpunk 2077</h3>
         <p>RPG</p>
         <a href="buy.php?game=Cyberpunk 2077" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/cp.png">
+        <img src="cp.png">
         <h3>Cyberpunk 2077</h3>
         <p>RPG</p>
         <a href="buy.php?game=Cyberpunk 2077" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/cp.png">
+        <img src="cp.png">
         <h3>Cyberpunk 2077</h3>
         <p>RPG</p>
         <a href="buy.php?game=Cyberpunk 2077" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/cp.png">
+        <img src="cp.png">
         <h3>Cyberpunk 2077</h3>
         <p>RPG</p>
         <a href="buy.php?game=Cyberpunk 2077" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/cp.png">
+        <img src="cp.png">
         <h3>Cyberpunk 2077</h3>
         <p>RPG</p>
         <a href="buy.php?game=Cyberpunk 2077" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/cp.png">
+        <img src="cp.png">
         <h3>Cyberpunk 2077</h3>
         <p>RPG</p>
         <a href="buy.php?game=Cyberpunk 2077" class="btn">Buy</a>
     </div>
 
     <div class="card">
-        <img src="images/cp.png">
+        <img src="cp.png">
         <h3>Cyberpunk 2077</h3>
         <p>RPG</p>
         <a href="buy.php?game=Cyberpunk 2077" class="btn">Buy</a>
