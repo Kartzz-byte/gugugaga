@@ -103,7 +103,7 @@ p {
     <p>ANDA BERHASIL LOGIN</p>
 
     <div class="photo-box">
-        <img src="images/foto.jpg">
+        <img src="foto.jpg">
     </div>
 
     <div class="btn-container">
